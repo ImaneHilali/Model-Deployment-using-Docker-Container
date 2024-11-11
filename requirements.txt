@@ -1,0 +1,7 @@
+Flask==2.2.3
+Werkzeug==2.2.3
+torch==2.0.0
+transformers==4.31.0
+langdetect==1.0.9
+google-cloud-storage==2.6.0
+numpy==1.24.3
